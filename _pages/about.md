@@ -66,11 +66,13 @@ Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, *
 Jinghan Zhang, Shiqi Chen, *Junteng Liu*, Junxian He
 *NeurIPS 2023*
 
-## Skills
+## Research Interests
 
-- **Programming Languages:** Python
-- **Machine Learning:** PyTorch, Transformers, Reinforcement Learning
-- **Languages:** English, Mandarin
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models
+- LLM Truthfulness and Interpretability
 
 ## Awards
 
